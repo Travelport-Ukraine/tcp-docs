@@ -1,4 +1,10 @@
-# Registraion
+# Getting started
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+To benefit from TCP usage you should:
+
+1. place your order online via
+2. once you received from us the access credentials, please add your PCC to your TCP account as instructed in [TCP Settings](https://omega.travelcloudpro.eu/#/settings). Please note that you would need 64UZ already added to the SVCB field in AAT profile of your PCC. Check out the latest procedure via ASK Travelport [AN16072](https://goo.gl/A4PUc4). Please contact your local Travelport representative for further details. 
+3. Retrieve PNR containing the ticket you wish to exchange in TCP.
+
+
 
