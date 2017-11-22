@@ -1,0 +1,127 @@
+/* @import url('https://fonts.googleapis.com/css?family=Noto+Sans'); */
+
+/* latin-ext */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v6/erE3KsIWUumgD1j_Ca-V-xJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans'), local('NotoSans'), url(https://fonts.gstatic.com/s/notosans/v6/LeFlHvsZjXu2c3ZRgBq9nFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+body .book .book-body, body .book .book-summary {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+
+
+
+
+.book-summary:before {
+    margin: 10px 15px;
+    background: url(/assets/eStr-logo.png) center center no-repeat;
+    height: 75px;
+    background-size: contain;
+    content: '';
+    display: block;
+    height: 75px;
+}
+
+
+
+
+.book-summary ul.summary {
+    padding: 0 15px;
+}
+.book-summary ul.summary li.header {
+    padding: 25px 0 5px;
+    color: #26a69a;
+    border-bottom: 1px solid #b2dfdb;
+    margin: 0 15px 5px;
+    font-size: 12px;
+}
+.book-summary ul.summary li a, .book-summary ul.summary li span {
+    color: #0087CC;
+    padding: 6px 15px;
+}
+.book-summary ul.summary li a:hover {
+    text-decoration: none;
+    background: #e0f2f1;
+    color: #00695c;
+}
+.book-summary ul.summary li.active>a {
+    color: #000;
+    font-weight: bold;
+}
+
+
+.markdown-section {
+    padding-bottom: 50px;
+}
+
+
+.markdown-section h1 {
+    font-size: 1.8em;
+}
+.markdown-section h2 {
+    color: #33691e;
+    font-size: 1.4em;
+    margin: 2.4em 0 0.5em;
+}
+.markdown-section h3 {
+    color: #558b2f;
+    font-size: 1.2em;
+    margin: 1.8em 0 0.5em;
+}
+.markdown-section h4 {
+    color: #33691e;
+    font-size: 1em;
+    margin: 1.4em 0 0.5em;
+}
+
+
+.markdown-section table {
+    border-bottom: 2px solid #f1f8e9;
+    width: initial;
+    margin-bottom: 2em;
+    width: initial;
+    border-bottom: 2px solid #f1f8e9;
+}
+.markdown-section table tr {
+    background-color: #fff;
+    border: none;
+}
+.markdown-section table th {
+    font-size: 0.8em;
+    padding: 2px 13px;
+    background: #c5e1a5;
+    border: none;
+}
+.markdown-section table td {
+    font-size: 0.9em;
+    border: none;
+}
+.markdown-section table tr:nth-child(2n) {
+    background-color: #f1f8e9;
+}
+
+
+
+
+.markdown-section pre {
+    background: #e8eaf6;
+    line-height: 1.25;
+    max-width: 100%;
+}
+
+
+
+.markdown-section blockquote {}
