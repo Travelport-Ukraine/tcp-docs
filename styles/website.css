@@ -26,10 +26,10 @@ body .book .book-body, body .book .book-summary {
     margin: 10px 15px;
     background: url('../assets/TCP-logo.png') center center no-repeat;
     background-size: contain;
-    height: 75px;
     content: '';
     display: block;
     height: 75px;
+    margin: 10px 15px;
 }
 
 
