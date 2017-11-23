@@ -23,14 +23,17 @@ body .book .book-body, body .book .book-summary {
 
 
 .book-summary:before {
-    margin: 10px 15px;
     background: url('../assets/TCP-logo.png') center center no-repeat;
     background-size: contain;
     border: none;
-    content: '';
+    content: 'Travel Cloud Pro';
+    font-size: 18px;
+    line-height: 120%;
     display: block;
-    height: 75px;
+    height: 68px;
     margin: 10px 15px;
+    padding: 9px 0 0 160px;
+    width: 70px;
 }
 
 
