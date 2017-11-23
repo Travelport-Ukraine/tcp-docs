@@ -5,6 +5,6 @@
 * [How to open PNR](how-to-open-pnr.md)
 * [Exchange process](exchange-process.md)
   * [Even Exchange without any penalty](exchange-process/even-exchange-without-any-penalty.md)
-  * Exchange with ADC
+  * [Exchange with ADC](exchange-process/exchange-with-adc.md)
 * [Limitations](title-1.md)
 
