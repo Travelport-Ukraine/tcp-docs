@@ -22,7 +22,6 @@ body .book .book-body, body .book .book-summary {
 }
 
 
-
 .book-summary:before {
     margin: 10px 15px;
     background: url('../assets/TCP-logo.png') center center no-repeat;
@@ -32,8 +31,6 @@ body .book .book-body, body .book .book-summary {
     display: block;
     height: 75px;
 }
-
-
 
 
 .book-summary ul.summary {
