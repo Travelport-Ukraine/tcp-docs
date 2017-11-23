@@ -6,9 +6,7 @@ Please find below the workflow how to process an even exchange in TCP using fare
 
 The customer originally ordered a ticket to travel from Kyiv to Amsterdam on the 23 Aug returning from Amsterdam to Kyiv on 30 Aug.
 
-1. The ticket was originally issued at the fare of USD803.00 plus taxes TAX 107UA TAX 54UD TAX 346YK TAX 3
-
-39CJ TAX 386RN
+1. The ticket was originally issued at the fare of USD803.00 plus taxes TAX 107UA, TAX 54UD, TAX 346YK, TAX 339CJ, TAX 386RN
 
 ![](/assets/screen.png)
 
