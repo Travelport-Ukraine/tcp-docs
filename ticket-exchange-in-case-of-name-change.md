@@ -31,8 +31,31 @@ To collapse the detailed view, simply click on this button again:
 ![](/assets/Unfold.png)
 
 1. Select "Exchange using stored fare quote" ![](/assets/ExchangeusingFQ.png)
-2. TCP automatically compares new fare plus taxes and the original ticket.
-3. Check the exchange calculation table and select whether the new ticket should be issued now or later. The exemplified scenario uses "Issue the ticket now" option. Do not forget to press the green arrow to complete the exchange procedure.
+2. Once "Exchange using stored fare quote" has been selected TCP automatically compares new fare plus taxes and the original ticket and displays Exchange calculation table. The agent only needs to indicate whether some penalty needs to be charged for ticket change, the option "No penalty" is selected by default.
 
+![](/assets/NoPenalty.png)If for exchange ticket a different commission applies, TCP allows to indicate is manually by selecting amount or percentage and indicating the commission value
 
+![](/assets/TicketingCommission.png)
+
+1. In case of additional collection TCP displays drop-down menu to select the payment method.
+
+![](/assets/ADCPayment.png)
+
+The endoresement box is automatically filled by TCP with the information from a stored fare quote:
+
+![](/assets/Endoresement.png)
+
+When the fare details need to be suppressed by IT/BT modifier, the relevant radio btutton needs to be checked. Otherwise the default option "None" applies
+
+![](/assets/NoneITBT.png)
+
+1. Check the exchange calculation table and select whether the new ticket should be issued now or later. 
+
+The exemplified scenario uses "Issue the ticket now" option. Do not forget to press the green arrow to complete the exchange procedure.
+
+![](/assets/CompleteExchange.png)
+
+The new ticket as per new surname has been issued successfully by TCP
+
+![](/assets/NameChangeTicket.png)
 
