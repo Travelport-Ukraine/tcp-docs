@@ -18,11 +18,9 @@ Name change procedure needs to be applied due to the passenger's marriage.
 
 1. Indicate the original ticket number to TCP using the option "Add ticket by number". Once the number has been filled in, click "Add" link
 
-![](/assets/AddbyNumber.png)![](/assets/InsertNumber.png)Please note that the ticket number needs to be indicate without spaces, otherwise an error will be returned
+![](/assets/CorrectAdditionofTktnumber.png)Please note that the ticket number needs to be indicate without spaces, otherwise an error will be returned
 
 ![](/assets/error_tktnumber.png)
-
-
 
 1. Once the ticket number has been accepted, Exchange option is available. Further details about the ticket can be obtained by clicking the magnifying glass button:
 
