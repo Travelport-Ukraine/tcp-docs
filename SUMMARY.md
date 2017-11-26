@@ -12,4 +12,5 @@
 * [Exchange using manual fare quote](exchange-using-manual-fare-quote.md)
 * [Limitations](title-1.md)
 * [How to switch between PCCs](how-to-switch-between-pccs.md)
+* [Support process](support-process.md)
 
