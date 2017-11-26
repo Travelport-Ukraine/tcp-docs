@@ -1,4 +1,4 @@
-# How to do an even exchange in TCP
+# How to do an even exchange in TCP?
 
 ## Using stored fare quote
 

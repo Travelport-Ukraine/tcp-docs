@@ -1,4 +1,4 @@
-# How do I switch between multiple PCCs in TCP
+# How do I switch between multiple PCCs in TCP?
 
 Once registration is complete each TCP user is assigned with access credentials. Using these access credentials the user can log into PCC and procceed with exchange proccess in their default PCC.
 

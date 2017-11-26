@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting started](chapter1.md)
-  * [PCC Activation](chapter1/pcc-activation.md)
+* [PCC Activation](chapter1/pcc-activation.md)
 * [How to open PNR](how-to-open-pnr.md)
 * [How to switch between PCCs](how-to-switch-between-pccs.md)
 * [Exchange process](exchange-process.md)
