@@ -8,10 +8,11 @@
 * [Exchange process](exchange-process.md)
 * [Exchange using stored fare](exchange-process/even-exchange-without-any-penalty.md)
 * [Exchange using new fare](exchange-process/exchange-with-adc.md)
-* [Ticket exchange in case of name change](ticket-exchange-in-case-of-name-change.md)
+* [Exchange in case of name change](ticket-exchange-in-case-of-name-change.md)
 * [Exchange using manual fare quote](exchange-using-manual-fare-quote.md)
 * [Limitations](title-1.md)
 * [How to switch between PCCs](how-to-switch-between-pccs.md)
-* [Support process](support-process.md)
-* How to switch to Detailed View
+* [How to switch to Detailed View](how-to-switch-to-detailed-view.md)
+* [How to switch to Detailed View](how-to-switch-to-detailed-view.md)
+* [Exchange with ADC. Penalty charged on EMD](exchange-with-adc-penalty-charged-on-emd.md)
 
