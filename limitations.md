@@ -8,7 +8,7 @@ Limitations on Dec 2017:
 
 1. ~~`IT`/`BT` bookings with inaccessible / invalid fare quote history not supported~~
 2. ~~Exchanges with fare quotes created with fare rules warnings~~
-3. ~~PNRs with hotel and/or car segments not supported \(soon\)~~
+3. ~~PNRs with hotel and/or car segments not supported~~
 4. ~~Simultaneous additional collection and refund is not supported~~
 5. ~~Tickets with `ADC` in `TOTAL`~~
 6. ~~Bookings with different currencies in `FARE` of fare quote and ticket~~
@@ -17,7 +17,7 @@ Limitations on Dec 2017:
 
 Limitations on Apr 2018:
 
-1. Issuing after exchange as limited by Travelport linkage issues \(soon\)
+1. ~~Issuing after exchange as limited by Travelport linkage issues~~
 2. Commission is now changeable in case of involuntary rerouting \(soon\)
 3. Cases when Travelport does not fill original form of payment field on exchange \(soon\)
 4. Second exchange of tickets with US segments \(tickets with XF tax listed twice\)
