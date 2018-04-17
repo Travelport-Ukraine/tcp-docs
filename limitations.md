@@ -18,7 +18,7 @@ Limitations on Dec 2017:
 Limitations on Apr 2018:
 
 1. ~~Issuing after exchange as limited by Travelport linkage issues~~
-1. ~~Booking with non-service passive segments~~
+1. ~~Bookings with non-service passive segments~~
 1. Commission is now changeable in case of involuntary rerouting \(soon\)
 1. Cases when Travelport does not fill original form of payment field on exchange \(soon\)
 1. Second exchange of tickets with US segments \(tickets with XF tax listed twice\)
