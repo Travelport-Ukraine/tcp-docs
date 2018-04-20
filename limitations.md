@@ -24,3 +24,4 @@ Limitations on Apr 2018:
 1. Second exchange of tickets with US segments \(tickets with XF tax listed twice, soon\)
 1. Support for Fare quotes, created in GD/SP/GT (soon).
 1. Cases with second exchange when taxes information not fully available from ticket \(very rare case\)
+1. Cases when XF tax breakdown is missing in ticket
