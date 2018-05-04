@@ -12,37 +12,39 @@ In order to process this rerouting in TCP the following steps should be taken:
 
 ![](/assets/ManualFareQuote.png)
 
-1. Scroll down to display ticket details and Select "Involuntary changes/Manual mask" option
+2. Scroll down to display ticket details and Select "Involuntary changes/Manual mask" option
 
 ![](/assets/ExchangeviaManualMask.png)
 
-1. Select the segments for exchange and activate the checkboxes "No Stop" to indicate that there is no stopover. The remaning fields for manual fare build mask will be filled in automatically:
+3. Select the segments for exchange and activate the checkboxes "No Stop" to indicate that there is no stopover. The remaining fields for manual fare build mask will be filled in automatically:
 
 ![](/assets/ManualFareBuild.png)
 
-1. Delete all taxes, check calculation details and click "Apply" button
+4. Delete all taxes, check calculation details and click "Apply" button
 
 ![](/assets/DeleteTaxes.png)![](/assets/ApplyManualFB.png)
 
-1. indicate whether some penalty needs to be charged for ticket change, the option "No penalty" is selected by default.
+5. Indicate whether some penalty needs to be charged for ticket change, the option "No penalty" is selected by default.
 
 ![](/assets/NoPenalty.png)If for exchange ticket a different commission applies, TCP allows to indicate it manually by selecting amount or percentage and indicating the commission value
 
 ![](/assets/TicketingCommission.png)
 
-1. Insert endorement text into "Additional options":
+6. Insert endorement text into "Additional options":
 
 ![](/assets/AdditionalOptions.png)
 
-1. Check "Exchange calculation table"
+7. Check "Exchange calculation table"
 
 ![](/assets/Exchangecalculation_ManualFare.png)
 
-1. Activate toggle boxes for taxes that need to be refunded
-2. Select whether the new ticket should be issued now or later. 
-   The exemplified scenario uses "Issue the ticket now" option. Do not forget to press the green arrow to complete the exchange procedure.
+8. Activate toggle boxes for taxes that need to be refunded.
 
-![](/assets/IssueNowExchangeusingFBC.png)3. Verify the Detailed ticket view for newly exchanged ticket by clicking the magnifying glass 
+9. Select whether the new ticket should be issued now or later. 
+
+The exemplified scenario uses "Issue the ticket now" option. Do not forget to press the green arrow to complete the exchange procedure.
+
+![](/assets/IssueNowExchangeusingFBC.png)10. Verify the Detailed ticket view for newly exchanged ticket by clicking the magnifying glass
 
 ![](/assets/SuccessExchange_ManualFB.png)
 
