@@ -1,4 +1,4 @@
-# How to switch to Detailed View?
+# How to activate Detailed View?
 
 TCP shows PNR fields \(Filed Fare Data, Electronic Ticket Data etc\) collapsed by default.
 
