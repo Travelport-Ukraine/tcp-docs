@@ -13,8 +13,9 @@
 * [How to switch between PCCs](how-to-switch-between-pccs.md)
 * [How to open PNR](how-to-open-pnr.md)
 * [How to activate Detailed View](how-to-switch-to-detailed-view.md)
+* [Balance](balance.md)
 
-## Exchange
+## Exchange examples
 
 * [Exchange process](exchange-process.md)
 * [Exchange using stored fare](exchange-process/even-exchange-without-any-penalty.md)
