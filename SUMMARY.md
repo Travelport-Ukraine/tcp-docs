@@ -3,8 +3,12 @@
 ## Overview
 
 * [Introduction](README.md)
+  * How TCP is working
 * [Getting started](getting-started.md)
-* [PCC Activation](getting-started/pcc-activation.md)
+* [Settings](getting-started/pcc-activation.md)
+  * [Add PCC to TCP account](getting-started/pcc-activation/add-pcc-to-tcp-account.md)
+  * [Printer Settings](getting-started/pcc-activation/tcp-settings.md)
+  * [Selective Access for TCP](getting-started/pcc-activation/selective-access-for-tcp.md)
 * [How to switch between PCCs](how-to-switch-between-pccs.md)
 * [How to open PNR](how-to-open-pnr.md)
 * [How to switch to Detailed View](how-to-switch-to-detailed-view.md)
