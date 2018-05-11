@@ -23,6 +23,7 @@
 * [Exchange in case of name change](ticket-exchange-in-case-of-name-change.md)
 * [Exchange using manual fare quote](exchange-using-manual-fare-quote.md)
 * [Exchange with ADC. Penalty charged on EMD](exchange-with-adc-penalty-charged-on-emd.md)
+* [Add flight segments in TCP](add-flight-segments-in-tcp.md)
 
 ## TCP Limitations
 

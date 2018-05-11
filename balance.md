@@ -1,6 +1,4 @@
-# What TCP balance is used?
+# How to use TCP balance?
 
 Balance section is used for settlement purposes![](/assets/Balance.png)
-
-
 
