@@ -17,10 +17,14 @@ Limitations on Apr 2018:
 
 1. ~~Issuing after exchange as limited by Travelport linkage issues~~
 2. ~~Bookings with non-service passive segments~~
-3. Commission is now changeable in case of involuntary rerouting \(soon\)
-4. Cases when Travelport does not fill original form of payment field on exchange \(soon\)
-5. Second exchange of tickets with US segments \(tickets with XF tax listed twice, soon\)
-6. Support for Fare quotes, created in GD/SP/GT \(soon\).
-7. Cases with second exchange when taxes information not fully available from ticket \(very rare case\)
-8. Cases when XF tax breakdown is missing in ticket
+3. ~~Commission is now changeable in case of involuntary rerouting~~
+4. ~~Cases when Travelport does not fill original form of payment field on exchange~~
+5. ~~Second exchange of tickets with US segments \(tickets with XF tax listed twice\)~~
+6. ~~Support for Fare quotes, created in GD/SP/GT~~
+
+Limitations on Jun 2018:
+
+1. Exchange for tickets having ARPT coupons only \(soon\)
+2. Cases when XF tax breakdown is missing in ticket
+3. Cases with second exchange when taxes information not fully available from ticket \(very rare case\)
 
