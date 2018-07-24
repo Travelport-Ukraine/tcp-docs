@@ -1,6 +1,6 @@
 # How to switch between PCCs
 
-Once registration is complete each TCP user is assigned with access credentials. Using these access credentials the user can log into PCC and procceed with exchange proccess in their default PCC.
+Once registration is complete each TCP user is assigned with access credentials. Using these access credentials the user can log into PCC and proceed with exchange process in their default PCC.
 
 The default PCC is displayed on the welcome page in the top right corner:
 
