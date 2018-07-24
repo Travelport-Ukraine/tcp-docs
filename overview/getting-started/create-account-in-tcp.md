@@ -1,19 +1,20 @@
 # Create account in TCP
 
-To create a new account in TCP you just need to make 3 simple steps:
+To create a new account in TCP you just need to make 4 simple steps:
 
 1. fill in a simple self registration form available on TCP page:
 
 ![](../../.gitbook/assets/registration-form.png)
 
-1. Verify your email address indicated in the registration form. TCP sends the link to confirm the user has access to email address:
-2. ![](../../.gitbook/assets/emailverification.png)
+2. Verify your email address indicated in the registration form. TCP sends the link to confirm the user has access to email address:
+
+ ![](../../.gitbook/assets/emailverification.png)
 
 Upon successful email verification TCP displays the relevant notification
 
 ![](../../.gitbook/assets/registrationsuccessfulpng.bin)
 
-1. Insert secret password. TCP password is sent in a separate email message once registration is confirmed. This secret password should be inserted into Login form
+3. Insert secret password. TCP password is sent in a separate email message once registration is confirmed. This secret password should be inserted into Login form
 
 ![](../../.gitbook/assets/loginform.png)
 
