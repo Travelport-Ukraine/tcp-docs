@@ -14,12 +14,13 @@ To proceed with exchange in TCP the following steps should be taken:
 
 ![](../.gitbook/assets/cclassemd.png)
 
-1. Scroll down to indicate penalty amount. If you would like EMD receipt to be emailed please select "Send to email" in the drop-down menu "Action on EMD issue" and fill in Email field. Otherwise the default "Print locally" option will be used.
-2. Select the form of payment for penalty EMD
+4. Scroll down to indicate penalty amount. If you would like EMD receipt to be emailed please select "Send to email" in the drop-down menu "Action on EMD issue" and fill in Email field. Otherwise the default "Print locally" option will be used.
+
+5. Select the form of payment for penalty EMD
 
 ![](../.gitbook/assets/emdcard.png)
 
-1. Select the form of payment for penalty![](../.gitbook/assets/adcbycard.png)
+6. Select the form of payment for penalty![](../.gitbook/assets/adcbycard.png)
 
 ![](../.gitbook/assets/adcbycard%20%281%29.png)
 
@@ -27,8 +28,9 @@ To proceed with exchange in TCP the following steps should be taken:
 
 ![](../.gitbook/assets/adcbycard%20%283%29.png)
 
-1. Check the exchange calculation table.
-2. If you want the new ticket to be issued now, please select the default option "Issue now". If for some reason you want TCP only to build the fare for exchange , opt for "Issue later". In this example we will gor for "Issue now" and click the green arrow to complete exchange procedure.![](../.gitbook/assets/exchangetable_cclass.png)
+7. Check the exchange calculation table.
+
+8. If you want the new ticket to be issued now, please select the default option "Issue now". If for some reason you want TCP only to build the fare for exchange , opt for "Issue later". In this example we will gor for "Issue now" and click the green arrow to complete exchange procedure.![](../.gitbook/assets/exchangetable_cclass.png)
 
 ![](../.gitbook/assets/exchangetable_cclass%20%281%29.png)
 
