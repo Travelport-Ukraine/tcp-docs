@@ -11,7 +11,7 @@
 * [Settings](overview/settings/README.md)
   * [Add PCC to TCP account](overview/settings/add-pcc-to-tcp-account.md)
   * [Printer Settings](overview/settings/printer-settings.md)
-  * [Selective Access for TCP](overview/settings/selective-access-for-tcp.md)
+  * [Why do I need bridging with PCC 64UZ](overview/settings/selective-access-for-tcp.md)
 * [How to switch between PCCs](overview/how-to-switch-between-pccs.md)
 * [How to open PNR](overview/how-to-open-pnr.md)
 * [How to activate Detailed View](overview/how-to-activate-detailed-view.md)

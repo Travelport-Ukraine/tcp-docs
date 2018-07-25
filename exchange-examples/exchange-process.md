@@ -15,6 +15,6 @@ This article contains a high-level overview of TCP exchange process. Further det
    3 possible scenarios: Exchange using new fare quote \(when TCP fare quotes the new itinerary\); Exchange using stored fare quote \(when TCP uses fare quote for new itinerary already stored in the booking file\); Exchange using manual fare quote \(used in cases when it is necessary to store the fare calculation created manually but without using cryptic entries\).
 
 3. Review fare calculation details, select Penalty type \(EMD-S, Q surcharge, Tax\).
-4. Select "Issue ticket now"  to complete the exchange process and issue new ticket OR "Issue ticket later" to save the changes into fare quote and issue new ticket later.
-5. In case the option "Issue ticket now" was selected TCP on the previous step screen should display the newly issued ticket. When the agent opts for "Issue ticket later" on the new screen TCP a screen displays the summary of changes.
+4. Select "Issue ticket"  to complete the exchange process and issue new ticket OR "Go to PNR" to save the changes into fare quote and issue new ticket later.
+5. In case the option "Issue ticket" was selected TCP should display the newly issued ticket. When the agent opts for "Go to PNR" on the new screen TCP a screen displays the PNR with fare quote.
 

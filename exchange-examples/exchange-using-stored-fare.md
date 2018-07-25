@@ -6,7 +6,7 @@ Please find below the workflow how to process an even exchange in TCP using fare
 
 The customer originally ordered a ticket to travel from Kyiv to Amsterdam on the 23 Aug returning from Amsterdam to Kyiv on 30 Aug.
 
-1. The ticket was originally issued at the fare of USD803.00 plus taxes TAX 107UA, TAX 54UD, TAX 346YK, TAX 339CJ, TAX 386RN
+The ticket was originally issued at the fare of USD803.00 plus taxes TAX 107UA, TAX 54UD, TAX 346YK, TAX 339CJ, TAX 386RN
 
 ![](../.gitbook/assets/screen.png)
 
@@ -21,16 +21,17 @@ TCP displays the revised itinerary, the original ticket details and the new fare
 
 ![](../.gitbook/assets/snimok-ekrana-5.png)![](../.gitbook/assets/snimok-ekrana-8.png)
 
-1. Click on Exchange link on the  and select E-ticket exchange using stored fare quote 
+3. Click on Exchange link on the  and select E-ticket exchange using stored fare quote 
 
 ![](../.gitbook/assets/snimok-ekrana-9.png)
 
-1. Select the fare as per which the ticket should be issued
+4. Select the fare as per which the ticket should be issued
 
 ![](../.gitbook/assets/snimok-ekrana-10.png)
 
-1. Check the exchange calculation table filled in automatically by TCP. Select "Issue the ticket" and press the arrow button![](../.gitbook/assets/snimok-ekrana-11.png)
-   1. New ticket has been issued without Additional Collection.
+5. Check the exchange calculation table filled in automatically by TCP. Select "Issue the ticket" and press the arrow button![](../.gitbook/assets/snimok-ekrana-11.png)
+
+6. New ticket has been issued without Additional Collection.
 
 ![](../.gitbook/assets/snimok-ekrana-12.png)
 
