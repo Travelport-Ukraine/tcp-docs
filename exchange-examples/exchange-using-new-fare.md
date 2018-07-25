@@ -2,7 +2,7 @@
 
 ## with ADC and penalty collected as CP tax
 
-This article explains how to do E-ticket exchange using new fare created by TCP when there is an additional fare with penalty charged on CP tax.
+This article explains how to do E-ticket exchange using new fare created by TCP when there is an additional collection for fare and penalty charged on CP tax.
 
 The passenger purchased a ticket to travel from Kyiv to Tbilisi on the 2nd of September in economy class. Ticket has been issued at the fare of USD 105.00, plus taxes 107UA, 54UD, 346YK. The she decides to travel one day later in business class.
 
