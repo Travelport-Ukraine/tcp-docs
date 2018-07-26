@@ -26,6 +26,7 @@
 * [Exchange using manual fare quote](exchange-examples/exchange-using-manual-fare-quote.md)
 * [Exchange with ADC, Penalty charged on EMD](exchange-examples/exchange-with-adc.-penalty-charged-on-emd.md)
 * [Add flight segments in TCP](exchange-examples/add-flight-segments-in-tcp.md)
+* [Remove flight segments in TCP](exchange-examples/remove-flight-segments-in-tcp.md)
 
 ## TCP Limitations
 
