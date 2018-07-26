@@ -10,7 +10,7 @@ TCP allows to book flight segments temporarily by adding them directly via TCP i
 
 ![](../.gitbook/assets/confirmsegmentselection.png)4. Proceed with exchange process in TCP taking into account newly added segment
 
-![](../.gitbook/assets/segmentadded.png)5. Newly added flight segment ia taken into account when TCP calculates new fare, but such fare calculation is not saved into PNR
+![](../.gitbook/assets/segmentadded.png)5. Newly added flight segment is taken into account when TCP calculates new fare, but such fare calculation is not saved into PNR
 
 ![](../.gitbook/assets/exchange-using-flight-segment.png)![](../.gitbook/assets/informativecalculation.png)
 

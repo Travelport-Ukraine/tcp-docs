@@ -44,7 +44,7 @@ In order to process this rerouting in TCP the following steps should be taken:
 
 The exemplified scenario uses "Issue the ticket now" option. Do not forget to press the green arrow to complete the exchange procedure.
 
-![](../.gitbook/assets/issuenowexchangeusingfbc.png)10. Verify the Detailed ticket view for newly exchanged ticket by clicking the magnifying glass
+![](../.gitbook/assets/issuenowexchangeusingfbc.png)10. Verify the Detailed ticket view for newly exchanged ticket by clicking the expand button.
 
 ![](../.gitbook/assets/successexchange_manualfb.png)
 
