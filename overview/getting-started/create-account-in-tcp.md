@@ -1,6 +1,6 @@
 # Create account in TCP
 
-To create a new account in TCP you just need to make 4 simple steps:
+a new account in TCP you just need to make 4 simple steps:
 
 1. fill in a simple self registration form available on TCP page:
 
