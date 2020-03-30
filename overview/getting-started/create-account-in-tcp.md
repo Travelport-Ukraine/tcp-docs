@@ -16,7 +16,7 @@ Upon successful email verification TCP displays the relevant notification
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-3. Insert secret password. TCP password is sent in a separate email message once registration is confirmed. This secret password should be inserted into Login form
+3. Insert your secret password. TCP password is sent in a separate email message once registration is confirmed. This secret password should be inserted into Login form
 
 ![](../../.gitbook/assets/loginform.png)
 
