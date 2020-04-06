@@ -4,9 +4,7 @@ TCP provisioning is very easy, you would simply need to add PCC 64UZ to the SVCB
 
 1. Once 64UZ has been added to your PCCs SVCB fields, go ahead and follow the guidelines indicated in TCP Settings Section.  
 
-![](../../.gitbook/assets/image%20%289%29.png)
-
-
+![](../../.gitbook/assets/image%20%281%29.png)
 
 2.Please note that you would need to create new PNR in your PCC which you want to be added into TCP. This is just a security check to confirm that you are entitled to create and process reservations in this PCC.
 
