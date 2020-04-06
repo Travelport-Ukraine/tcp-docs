@@ -4,7 +4,9 @@ To open PNR in TCP simply type Galileo Record locator or Passenger surname in th
 
 ## Search by Record locator
 
-Just type the 6 digit Galileo Record locator into Search filed and press Enter![](../.gitbook/assets/searchbyrecloc.png)TCP retrieves the requested PNR ![](../.gitbook/assets/searchresultbypnr.png)
+Just type the 6 digit Galileo Record locator into Search filed and press Enter.
+
+TCP retrieves the requested PNR ![](../.gitbook/assets/searchresultbypnr.png)
 
 ## Search by Passenger Name
 
