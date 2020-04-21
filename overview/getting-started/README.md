@@ -1,9 +1,12 @@
 # Getting started
 
-To benefit from TCP usage you should:
+To benefit from TCP usage you should follow three basic steps:
 
-1. Please add Service Bureau PCC 64UZ in AAT table of your PCC. This is a technical requirement for the solution to work. Please contact your local Travelport representative for further details
-2. Place your [order](https://help.travelcloudpro.eu/~/drafts/-LOrPZHlS_MqLnyNI5ZK/primary/overview/getting-started/create-account-in-tcp) online via TCP website.
-3. Once you received from us the access credentials, please add your PCC to your TCP account as instructed in [TCP Settings](https://beta.travelcloudpro.eu/#/settings). For more information, please check subsection [Add PCC to TCP account](../settings/add-pcc-to-tcp-account.md). 
-4. Retrieve PNR containing the ticket you wish to issue or exchange in TCP.
+1. Add our PCC 64UZ to the SVCB field in AAT table of the agency PCC that will be using TCP Exchange. This is a technical requirement for the solution to work. Please contact your local Travelport representative for further details.
+2. Use this registration [link](https://travelcloudpro.eu/#/register) to create account via TCP website. Step by step manual is available in section [Create account in TCP](https://app.gitbook.com/@cee-travelport/s/tcp/~/drafts/-M5MTBIiIrcsRhsOfXGU/overview/getting-started/create-account-in-tcp/~/settings/share).
+3. Add your PCC into your TCP account and make appropriate settings of your account. Step by step manual is available in section [Settings](https://app.gitbook.com/@cee-travelport/s/tcp/~/drafts/-M5MTBIiIrcsRhsOfXGU/overview/settings/~/settings/share).
+
+
+
+
 

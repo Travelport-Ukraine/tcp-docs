@@ -1,12 +1,40 @@
 # Add PCC to TCP account
 
-TCP provisioning is very easy, you would simply need to add PCC 64UZ to the SVCB field in AAT profile of your PCC. Please contact your local Travelport representative for further instructions regarding addition of 64UZ to your PCC. Refer to the next sub-section to learn [why you need to set up PCC bridging with 64UZ](selective-access-for-tcp.md).
+1. Select Settings section to add at least one PCC to TCP account.
 
-1. Once 64UZ has been added to your PCCs SVCB fields, go ahead and follow the guidelines indicated in TCP Settings Section.  
+![](../../.gitbook/assets/image%20%2834%29.png)
+
+#### 2. Add new PCC
+
+![](../../.gitbook/assets/image%20%2822%29.png)
+
+#### 3. Click NEXT and Create PNR in your PCC. 
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-2.Please note that you would need to create new PNR in your PCC which you want to be added into TCP. This is just a security check to confirm that you are entitled to create and process reservations in this PCC.
+{% hint style="info" %}
+How to create PNR - see the instruction step by step below 
+{% endhint %}
 
-3. The surname and name for reservation need to be indicated in PNR in exactly the same way as in TCP Settings section, without title. The surname and name is changed after each page reload.
+* Create PNR in your PCC with the passenger name shown in Settings and enter booking record locator \(PNR\) and PCC in the appropriate fields.
+
+![](../../.gitbook/assets/image%20%2825%29.png)
+
+* Click NEXT and open PNR again in Travelport Smartpoint. Enter the confirmation number shown in the NOTE \(NP.\) to the appropriate field. 
+
+![](../../.gitbook/assets/image%20%2838%29.png)
+
+* Complete the linkage used in your PCC – use entry HMLD in Galileo to see your linkage.
+
+![](../../.gitbook/assets/image%20%2842%29.png)
+
+Enter Ticketing printer GTID, Itinerary printer GTID and MIR printer GTID \(if applicable\) and click SAVE button.
+
+![](../../.gitbook/assets/image%20%287%29.png)
+
+* Click at “FINISH” button to complete the registration.
+
+![](../../.gitbook/assets/image%20%2826%29.png)
+
+ 
 

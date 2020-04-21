@@ -7,7 +7,8 @@ For user newly registered in TCP, where no PCC has been added yet, Settings page
 For more information see further subsections:
 
 * [Add PCC to TCP account](add-pcc-to-tcp-account.md)
-* [Printer settings](printer-settings.md)
+* [Adding user under same TCP account](https://app.gitbook.com/@cee-travelport/s/tcp/~/drafts/-M5MTBIiIrcsRhsOfXGU/overview/settings/adding-user)
+* [Adding PCC under same TCP account](https://app.gitbook.com/@cee-travelport/s/tcp/~/drafts/-M5MTBIiIrcsRhsOfXGU/overview/settings/adding-pcc)
 
-Please remember to check printer settings for each PCC separately, check out [How to switch between PCCs](../how-to-switch-between-pccs.md) section to get a better overview.
+
 

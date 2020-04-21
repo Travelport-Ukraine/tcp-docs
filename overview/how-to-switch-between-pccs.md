@@ -4,11 +4,11 @@ Once registration is complete each TCP user is assigned with access credentials.
 
 The default PCC is displayed on the welcome page in the top left corner:
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 If you want to use multiple PCCs within TCP environment you would need to add your extra PCCs one by one as described in "PCC activation" section.
 
 After your extra PCC has been added successfully, you can change your default PCC by selecting alternative PCC in TCP drop-down menu:
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
