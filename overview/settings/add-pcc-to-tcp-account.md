@@ -22,11 +22,11 @@ How to create PNR - see the instruction step by step below
 
 * Click NEXT and open PNR again in Travelport Smartpoint. Enter the confirmation number shown in the NOTE \(NP.\) to the appropriate field. 
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 * Complete the linkage used in your PCC – use entry HMLD in Galileo to see your linkage.
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 Enter Ticketing printer GTID, Itinerary printer GTID and MIR printer GTID \(if applicable\) and click SAVE button.
 

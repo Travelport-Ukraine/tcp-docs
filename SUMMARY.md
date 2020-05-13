@@ -6,6 +6,8 @@
 
 * [Introduction](overview/introduction/README.md)
   * [How TCP is working](overview/introduction/how-tcp-is-working.md)
+  * [Important to remember](overview/introduction/important-to-remember.md)
+  * [TCP in non IATA agencies](overview/introduction/tcp-in-non-iata-agencies.md)
 * [Getting started](overview/getting-started/README.md)
   * [Create account in TCP](overview/getting-started/create-account-in-tcp.md)
 * [Settings](overview/settings/README.md)
