@@ -25,6 +25,13 @@
   * [Good to remember](starting-with-exchange/how-to-open-pnr/untitled-1.md)
 * [Select ticket for exchange](starting-with-exchange/untitled-1/README.md)
   * [Load ticket by number](starting-with-exchange/untitled-1/load-ticket-by-number.md)
+* [Select Exchange Option](starting-with-exchange/select-exchange-option/README.md)
+  * [Select additional options](starting-with-exchange/select-exchange-option/select-additional-options.md)
+* [New Calculation](starting-with-exchange/new-calculation/README.md)
+  * [Penalty, Commission and other additional options](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/README.md)
+    * [Penalty collected on EMD](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/penalty-collected-on-emd.md)
+  * [Untitled](starting-with-exchange/new-calculation/untitled.md)
+* [Untitled](starting-with-exchange/untitled.md)
 
 ## Exchange examples
 
