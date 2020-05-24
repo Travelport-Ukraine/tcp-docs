@@ -15,13 +15,19 @@
   * [Adding user under same TCP account](overview/settings/adding-user.md)
   * [Adding PCC under same TCP account](overview/settings/adding-pcc.md)
 * [How to switch between PCCs](overview/how-to-switch-between-pccs.md)
-* [How to open PNR](overview/how-to-open-pnr.md)
 * [How to activate Detailed View](overview/how-to-activate-detailed-view.md)
 * [Balance](overview/balance.md)
 
+## Starting with Exchange
+
+* [Exchange process](starting-with-exchange/exchange-process.md)
+* [How to open PNR](starting-with-exchange/how-to-open-pnr/README.md)
+  * [Good to remember](starting-with-exchange/how-to-open-pnr/untitled-1.md)
+* [Select ticket for exchange](starting-with-exchange/untitled-1/README.md)
+  * [Load ticket by number](starting-with-exchange/untitled-1/load-ticket-by-number.md)
+
 ## Exchange examples
 
-* [Exchange process](exchange-examples/exchange-process.md)
 * [Exchange using stored fare](exchange-examples/exchange-using-stored-fare.md)
 * [Exchange using new fare](exchange-examples/exchange-using-new-fare.md)
 * [Exchange in case of name change](exchange-examples/exchange-in-case-of-name-change.md)
@@ -33,4 +39,5 @@
 ## TCP Limitations
 
 * [Limitations](tcp-limitations/limitations.md)
+* [Untitled](untitled.md)
 
