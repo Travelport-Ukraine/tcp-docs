@@ -30,7 +30,9 @@
 * [New Calculation](starting-with-exchange/new-calculation/README.md)
   * [Penalty, Commission and other additional options](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/README.md)
     * [Penalty collected on EMD](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/penalty-collected-on-emd.md)
-  * [Untitled](starting-with-exchange/new-calculation/untitled.md)
+    * [Penalty collected as a tax](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/penalty-collected-as-a-tax.md)
+    * [Penalty to fare](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/penalty-to-fare.md)
+  * [Comparison table](starting-with-exchange/new-calculation/untitled.md)
 * [Untitled](starting-with-exchange/untitled.md)
 
 ## Exchange examples

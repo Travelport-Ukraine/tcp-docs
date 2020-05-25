@@ -1,6 +1,6 @@
 # Penalty collected on EMD
 
-![](../../../.gitbook/assets/image%20%2882%29.png)
+![](../../../.gitbook/assets/image%20%2888%29.png)
 
 <table>
   <thead>
@@ -64,4 +64,15 @@
       <td style="text-align:left">Cash, Invoice, Card or Other.</td>
     </tr>
   </tbody>
-</table>
+</table>Card code \(VI, CA, AX etc.\) is automatically added by TCP, it is necessary to enter card number and expiration date, approval code is optional.
+
+![](../../../.gitbook/assets/image%20%2848%29.png)
+
+SVC element is automatically created by TCP and added to PNR: 
+
+![](../../../.gitbook/assets/image%20%2855%29.png)
+
+{% hint style="info" %}
+When EMD for specific carrier has not been activated on your market yet, EMD will not be issued.
+{% endhint %}
+

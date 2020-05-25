@@ -6,11 +6,11 @@ To open PNR in TCP simply type **Galileo Record Locator** or **Passanger Surname
 
 Just type the 6 digit Galileo Record locator into Search filed and press Enter.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 TCP retrieves the requested PNR
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 ## Search by Passenger Name
 
@@ -18,11 +18,11 @@ If you do not remember the PNR locator, use the search by passenger surname.
 
 1. Insert the required surname into Search field
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 2. TCP display PNR list for particular surname.
 
-![](../../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
 3. Click on the PNR card to display further details and proceed with ticket exchange.
 

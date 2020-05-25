@@ -2,7 +2,7 @@
 
 TCP will offer you four exchange options after clicking on “EXCHANGE” button.
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 **EXCHANGE OPTION** – one of four options should be selected base on the type of exchange process:
 
