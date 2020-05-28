@@ -14,3 +14,5 @@ TCP compares the Fare and taxes from the original ticket with the new Fare calcu
 
 With TCP it is possible to collect penalty as a new tax, to the Fare as Q surcharge or to collect penalty on EMD which is automatically issued during the exchange/reissue process.
 
+
+
