@@ -61,7 +61,9 @@ In order to get new Fare Quote you have to select additional parameters like pas
         procedure).</td>
     </tr>
   </tbody>
-</table>![](../../.gitbook/assets/image%20%2853%29.png)
+</table>
+
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 |  |  |
 | :--- | :--- |

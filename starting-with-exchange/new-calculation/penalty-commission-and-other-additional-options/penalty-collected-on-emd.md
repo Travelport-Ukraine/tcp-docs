@@ -64,7 +64,9 @@
       <td style="text-align:left">Cash, Invoice, Card or Other.</td>
     </tr>
   </tbody>
-</table>Card code \(VI, CA, AX etc.\) is automatically added by TCP, it is necessary to enter card number and expiration date, approval code is optional.
+</table>
+
+Card code \(VI, CA, AX etc.\) is automatically added by TCP, it is necessary to enter card number and expiration date, approval code is optional.
 
 ![](../../../.gitbook/assets/image%20%2848%29.png)
 

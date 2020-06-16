@@ -32,8 +32,12 @@
     * [Penalty collected on EMD](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/penalty-collected-on-emd.md)
     * [Penalty collected as a tax](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/penalty-collected-as-a-tax.md)
     * [Penalty to fare](starting-with-exchange/new-calculation/penalty-commission-and-other-additional-options/penalty-to-fare.md)
-  * [Comparison table](starting-with-exchange/new-calculation/untitled.md)
-* [Untitled](starting-with-exchange/untitled.md)
+  * [Comparison table](starting-with-exchange/new-calculation/untitled/README.md)
+    * [Modification in Comparison table](starting-with-exchange/new-calculation/untitled/modification-in-comparison-table.md)
+* [Payment](starting-with-exchange/untitled.md)
+* [Copy option - multiple passengers](starting-with-exchange/copy-option-multiple-passengers.md)
+* [Required check](starting-with-exchange/required-check.md)
+* [Document issue](starting-with-exchange/document-issue.md)
 
 ## Exchange examples
 
