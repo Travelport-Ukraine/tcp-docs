@@ -16,7 +16,6 @@
   * [Adding PCC under same TCP account](overview/settings/adding-pcc.md)
 * [How to switch between PCCs](overview/how-to-switch-between-pccs.md)
 * [How to activate Detailed View](overview/how-to-activate-detailed-view.md)
-* [Balance](overview/balance.md)
 
 ## Starting with Exchange
 
@@ -41,16 +40,10 @@
 
 ## Exchange examples
 
+* [Informative pricing](exchange-examples/informative-pricing.md)
 * [Exchange using stored fare](exchange-examples/exchange-using-stored-fare.md)
 * [Exchange using new fare](exchange-examples/exchange-using-new-fare.md)
 * [Exchange in case of name change](exchange-examples/exchange-in-case-of-name-change.md)
 * [Exchange using manual fare quote](exchange-examples/exchange-using-manual-fare-quote.md)
 * [Exchange with ADC, Penalty charged on EMD](exchange-examples/exchange-with-adc.-penalty-charged-on-emd.md)
-* [Add flight segments in TCP](exchange-examples/add-flight-segments-in-tcp.md)
-* [Remove flight segments in TCP](exchange-examples/remove-flight-segments-in-tcp.md)
-
-## TCP Limitations
-
-* [Limitations](tcp-limitations/limitations.md)
-* [Untitled](untitled.md)
 

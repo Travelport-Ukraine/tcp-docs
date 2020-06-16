@@ -4,34 +4,41 @@
 
 Please find below the workflow how to process an even exchange in TCP using fare quote for revised itinerary already stored in the PNR.
 
-The customer originally ordered a ticket to travel from Kyiv to Amsterdam on the 23 Aug returning from Amsterdam to Kyiv on 30 Aug.
+![](../.gitbook/assets/image%20%2898%29.png)
 
-The ticket was originally issued at the fare of USD803.00 plus taxes TAX 107UA, TAX 54UD, TAX 346YK, TAX 339CJ, TAX 386RN
+![](../.gitbook/assets/image%20%28115%29.png)
 
-![](../.gitbook/assets/screen.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
-Then the customer decides to change return travel date to the 31st Aug.
+![](../.gitbook/assets/image%20%28110%29.png)
 
-1. New itinerary fare quoted using FQ entry, changes saved successfully in Travelport Smartpoint.
-2. Open this PNR in TCP by typing the Record locator or Passenger name in Search menu.
+{% hint style="info" %}
+If there are more passengers with the same Fare and same passenger type code \(PTC\), you can store Filed Fare for one passenger only and the other passengers can be copied afterwards.
+{% endhint %}
 
-![](../.gitbook/assets/snimok-ekrana-6.png)
+![](../.gitbook/assets/image%20%28162%29.png)
 
-TCP displays the revised itinerary, the original ticket details and the new fare quote which has already been stored in this PNR
+{% hint style="warning" %}
+For exchange it is necessary to open the ticket with OPEN status \(i\) and click on EXCHANGE button. You **cannot start** with Fare Quote
+{% endhint %}
 
-![](../.gitbook/assets/snimok-ekrana-5.png)![](../.gitbook/assets/snimok-ekrana-8.png)
+If the agent starts with Fare Quote anyway and clicks on “USE FOR EXCHANGE BUTTON”, a warning message will appear in the pop-up window about correct procedure for exchange.
 
-3. Click on Exchange link on the  and select E-ticket exchange using stored fare quote 
+![](../.gitbook/assets/image%20%28105%29.png)
 
-![](../.gitbook/assets/snimok-ekrana-9.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
-4. Select the fare as per which the ticket should be issued
+So as explained above, it is necessary to start with the ticket, click on \(i\) and then on EXCHANGE button and use the option “Exchange using store fare quote”.
 
-![](../.gitbook/assets/snimok-ekrana-10.png)
+![](../.gitbook/assets/image%20%28112%29.png)
 
-5. Check the exchange calculation table filled in automatically by TCP. Select "Issue the ticket" and press the arrow button![](../.gitbook/assets/snimok-ekrana-11.png)
+Once you click EXCHANGE option can be selected 
 
-6. New ticket has been issued without Additional Collection.
+![](../.gitbook/assets/image%20%28119%29.png)
 
-![](../.gitbook/assets/snimok-ekrana-12.png)
+Only now you can click on FARE QUOTE \(i\) and then on PROCESS button.
+
+![](../.gitbook/assets/image%20%28120%29.png)
+
+Now you can continue as always.
 
