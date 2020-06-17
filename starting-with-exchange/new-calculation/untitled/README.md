@@ -11,5 +11,5 @@ Comparison table consists of three parts \(Taxes, Fare and Total\)
 | **Total** | Ticket Additional collection = tax plus Fare ADC / Refundable balance = tax plus Fare refund. |
 | **EMD Penalty Additional collection** | Penalty collected on EMD. |
 
-![](../../../.gitbook/assets/image%20%28115%29.png)
+![](../../../.gitbook/assets/image%20%28117%29.png)
 

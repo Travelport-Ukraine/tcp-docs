@@ -42,4 +42,5 @@
 * [Informative pricing](exchange-examples/informative-pricing.md)
 * [Exchange using stored fare](exchange-examples/exchange-using-stored-fare.md)
 * [Exchange of IT ticket](exchange-examples/exchange-of-it-ticket.md)
+* [Involuntary changes](exchange-examples/involuntary-changes.md)
 
