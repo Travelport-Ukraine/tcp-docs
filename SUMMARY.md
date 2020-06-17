@@ -42,8 +42,5 @@
 
 * [Informative pricing](exchange-examples/informative-pricing.md)
 * [Exchange using stored fare](exchange-examples/exchange-using-stored-fare.md)
-* [Exchange using new fare](exchange-examples/exchange-using-new-fare.md)
-* [Exchange in case of name change](exchange-examples/exchange-in-case-of-name-change.md)
-* [Exchange using manual fare quote](exchange-examples/exchange-using-manual-fare-quote.md)
-* [Exchange with ADC, Penalty charged on EMD](exchange-examples/exchange-with-adc.-penalty-charged-on-emd.md)
+* [Exchange of IT ticket](exchange-examples/exchange-of-it-ticket.md)
 
