@@ -15,7 +15,6 @@
   * [Adding user under same TCP account](overview/settings/adding-user.md)
   * [Adding PCC under same TCP account](overview/settings/adding-pcc.md)
 * [How to switch between PCCs](overview/how-to-switch-between-pccs.md)
-* [How to activate Detailed View](overview/how-to-activate-detailed-view.md)
 
 ## Starting with Exchange
 
